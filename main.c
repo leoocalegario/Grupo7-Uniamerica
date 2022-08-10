@@ -6,6 +6,7 @@
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
+    printf("mufasa");
 
 
     float total, quantidade, parcelas, total_parcelas, valor_recebido, troco,desconto, valor_sem_desconto;
