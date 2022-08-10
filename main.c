@@ -6,8 +6,8 @@ int main()
 {
 
       setlocale(LC_ALL, "Portuguese");
-    printf("Testar Git");
-    printf("Testar Git22");
+
+   printf("iae puta");
 
 
 float PF = 7.50, PC = 8.69, BM = 5, SO = 4.50, TU = 3.25,TT,QT,P,FP,VD,VF,TR,DI;
@@ -34,7 +34,7 @@ float PF = 7.50, PC = 8.69, BM = 5, SO = 4.50, TU = 3.25,TT,QT,P,FP,VD,VF,TR,DI;
             printf("Total: %.2fR$\n",TT);
             printf("\n--------------\n\n");
         }
-
+   printf("iae putinha cabeluda");
         if(P==2)
         {
             TT=QT*PC;
