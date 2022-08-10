@@ -8,6 +8,7 @@ int main()
       setlocale(LC_ALL, "Portuguese");
 
    printf("iae puta");
+      printf("iae puta3");
 
 
 float PF = 7.50, PC = 8.69, BM = 5, SO = 4.50, TU = 3.25,TT,QT,P,FP,VD,VF,TR,DI;
